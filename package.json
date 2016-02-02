@@ -1,0 +1,15 @@
+{
+    "name": "PolluBot",
+    "version": "0.0.1",
+    "description": "A Telegram Bot for environment pollution in Italy area",
+    "main": "pollubot.js",
+    "author": "Antonio Bonaldo <antonio.bonaldo@gmail.com>, Fabio Gomiero <fgomiero@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "node-telegram-bot-api": "^0.20.1"
+    },
+    "bugs": {
+        "url": "https://github.com/critical/pollubot/issues"
+    },
+    "homepage": "https://github.com/critical/pollubot"
+}
